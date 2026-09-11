@@ -1,0 +1,6 @@
+{
+  "name": "ONE STOP CAR SERVICES",
+  "description": "Trusted, professional, 24-hour multibrand car service centre in Sadashivpet, Telangana. Complete car inspection, repair, servicing, and 24h towing support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
